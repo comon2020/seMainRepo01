@@ -2,6 +2,7 @@
 
 // 1: remote by bjy1530
 // 1: local by Beakjiyeon
+// 2: remote by Beakjiyeon
 public class Main {
 
 	public static void main(String[] args) {
